@@ -3,3 +3,4 @@ numpy和pandas
 002：numpy创建array
 003：numpy基础运算
 004：numpy中array的索引、合并、分割
+005: copy，deep copy
