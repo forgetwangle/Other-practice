@@ -1,2 +1,2 @@
 numpy和pandas
-001：
+001：numpy属性
