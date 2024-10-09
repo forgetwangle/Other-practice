@@ -1,2 +1,2 @@
-# python-practice
-java语言作业241008
+# other-practice
+python语言作业241008
