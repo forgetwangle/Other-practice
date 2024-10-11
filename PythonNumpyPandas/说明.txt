@@ -6,3 +6,4 @@ numpy和pandas
 005: copy，deep copy
 006：pandas基本介绍
 007：pandas选择数据、设置值、处理丢失数据
+008：pandas读文件、存文件
