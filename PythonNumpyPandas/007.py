@@ -20,6 +20,7 @@ df=pd.DataFrame(np.arange(24).reshape((6,4)),index=dates,columns=['A','B','C','D
 #print(df[df.A>8])
 
 #2，设置值
+
 #df.iloc[2,2]=1111
 #df.loc['20130101','B']=123
 #df[df.A>0]=0#df中的（A列中的所有大于0的行）（所在行所有列）赋值为0
@@ -29,6 +30,7 @@ df=pd.DataFrame(np.arange(24).reshape((6,4)),index=dates,columns=['A','B','C','D
 #print(df)
 
 #3，处理丢失数据
+
 df.iloc[0,1]=np.nan
 df.iloc[1,2]=np.nan
 #print(df.dropna(axis=0,how='any'))#一行中只要出现NaN就将这一行丢掉
