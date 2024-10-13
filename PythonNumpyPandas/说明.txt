@@ -8,3 +8,4 @@ numpy和pandas
 007：pandas选择数据、设置值、处理丢失数据
 008：pandas读文件、存文件
 009：pandas合并concat
+010：pandas合并merge
